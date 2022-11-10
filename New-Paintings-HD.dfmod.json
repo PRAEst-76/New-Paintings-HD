@@ -1,0 +1,12 @@
+{
+    "ModTitle": "New Paintings HD",
+    "ModVersion": "0.1",
+    "ModAuthor": "PRAEst76",
+    "DFUnity_Version": "0.14.5",
+    "ModDescription": "New paintings for use in DFU (HD)",
+    "GUID": "abc57b5a-6849-41b9-8f30-1c689ddb7dff",
+    "Files": [
+        "Assets/Game/Mods/New-Paintings-HD/Models/79010/79010.blend",
+        "Assets/Game/Mods/New-Paintings-HD/Models/79011/79011.blend"
+    ]
+}
